@@ -1,34 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CarHub
+
+CarHub is a web application that simplifies the process of finding, booking, and renting a car. Whether you need a vehicle for a short trip or an extended rental, CarHub offers a seamless experience to make your car rental process effortless.
+
+## Features
+
+-   **Effortless Booking**: With CarHub, you can quickly search for available cars and book them with just a few clicks. Say goodbye to lengthy paperwork and time-consuming processes.
+
+-   **Wide Selection**: CarHub offers a diverse range of cars from various trusted rental providers. You can easily find the perfect vehicle that suits your needs and preferences.
+
+-   **Streamlined User Interface**: The application is built using modern technologies such as React, Next.js 13, TypeScript, and Tailwind CSS. This ensures a smooth and responsive user interface, enhancing the overall user experience.
+
+-   **User Authentication**: CarHub includes a secure user authentication system, allowing users to create accounts, manage their bookings, and access personalized features.
+
+-   **Flexible Rental Options**: Whether you need a car for a few hours or several days, CarHub provides flexible rental options to accommodate your specific needs.
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+To run the CarHub project locally, you need to have the following software installed:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+-   Node.js
+-   npm or yarn
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+1. Clone the repository
 
-## Learn More
+2. Navigate to the project directory
 
-To learn more about Next.js, take a look at the following resources:
+3. Install the dependencies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+4. Start the development server
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+5. Open your browser and visit `http://localhost:3000` to access CarHub.
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you have any questions or suggestions regarding CarHub, please feel free to reach out to us at [adamye001@gmail.com](mailto:adamye001@gmail.com).
